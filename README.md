@@ -47,14 +47,6 @@ npm run dev
 ### Default Admin
 - Email: admin@billing.com
 - Password: admin123
-
----
-
-## 📬 Connect
-
-- GitHub: kulatharv
-- LinkedIn: Your Profile
-
 ---
 
 For educational purposes. Stripe uses test mode - no real payments.
